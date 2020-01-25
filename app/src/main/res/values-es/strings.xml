@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="next">Continuar</string>
+    <string name="skip">Saltar introducci+on</string>
+    <string name="description_introduction">Es más fácil buscar que película esta reproduciendo.</string>
+    <string name="now_playing">Ahora reproduciendo</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="name">Nombre</string>
+    <string name="email">Email</string>
+    <string name="upload_photo">Subir Foto</string>
+    <string name="load_later">Cargar después</string>
+</resources>

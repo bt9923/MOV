@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">MOV</string>
+    <string name="next">Continue</string>
+    <string name="skip">Skip introduction</string>
+    <string name="description_introduction">It is easier to find out which movie is playing.</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="login">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="load_later">Load Later</string>
+
+    <string-array name="upload_photos">
+        <item>Pick image</item>
+        <item>Take photo</item>
+        <item>Cancel</item>
+    </string-array>
+</resources>
