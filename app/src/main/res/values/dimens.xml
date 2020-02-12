@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="description_size">22sp</dimen>
+    <dimen name="description_ssize">18sp</dimen>
     <dimen name="margin_medium">12dp</dimen>
+    <dimen name="margin_xmedium">16dp</dimen>
     <dimen name="margin_xlarge">25dp</dimen>
     <dimen name="title_size">35sp</dimen>
     <dimen name="name_home">28sp</dimen>
+    <dimen name="corner_radius">8dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="description_xsmall">15sp</dimen>
+    <dimen name="description_xxsmall">12sp</dimen>
+    <dimen name="card_size_now_playing_width">155dp</dimen>
+    <dimen name="card_size_now_playing_height">205dp</dimen>
 </resources>

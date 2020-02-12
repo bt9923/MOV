@@ -12,4 +12,8 @@
     <string name="email">Email</string>
     <string name="upload_photo">Subir Foto</string>
     <string name="load_later">Cargar después</string>
+    <string name="family_sci">Familiar, Cie-fi</string>
+    <string name="drama_fantasy">Drama, Fantasia</string>
+    <string name="drama_mistery">Drama, Misterio</string>
+    <string name="coming_soon">Pronto</string>
 </resources>
